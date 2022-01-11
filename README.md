@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ## 关于这里
 
 - 🥰正在持续更新「 [图解大厂高频算法题](https://github.com/glodknife/algorithm) 」专题，欢迎大家关注🥰
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldknife6&layout=compact)](https://github.com/Christmas/github-readme-stats)
